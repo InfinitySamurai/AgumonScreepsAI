@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "grunt-screeps": "^1.4.0"
+  },
+  "name": "screeps",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true
+}
